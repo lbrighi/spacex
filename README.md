@@ -8,14 +8,14 @@
 ** Este projeto utiliza o pacote Material Design
 
 
-Instalação:
+## Instalação:
 
 Abra o CMD e execute o seguinte comando na pasta do repositório:
 ### `npm install`
 
 
 
-Configuração:
+## Configuração:
 
 O apontamento para a API faz-se necessário. Siga os seguintes passos:
 
@@ -24,7 +24,7 @@ O apontamento para a API faz-se necessário. Siga os seguintes passos:
 
 
 
-Execução:
+## Execução:
 
 Abra o CMD e execute o seguinte comando na pasta do repositório:
 ### `npm start`
