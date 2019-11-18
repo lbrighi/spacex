@@ -1,6 +1,6 @@
 ## Requisitos:
 
-1) [SpaceX_API](https://github.com/lbrighi/SpaceX_API) instalada e rodando [https://github.com/lbrighi/SpaceX_API](https://github.com/lbrighi/SpaceX_API)
+1) [SpaceX_API](https://github.com/lbrighi/SpaceX_API) instalada e rodando
 2) NODE.Js 12.13.0 ou superior
 3) React 16.12.0 ou superior
 
